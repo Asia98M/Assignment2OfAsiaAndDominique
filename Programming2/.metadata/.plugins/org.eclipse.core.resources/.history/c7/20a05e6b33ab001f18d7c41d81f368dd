@@ -1,0 +1,11 @@
+package Threading;
+
+public class Thread {
+
+	public static void main(String []args) {
+		
+		MultiThreading myThreads = new MultiThreading();
+		
+		myThreads.start();
+	}
+}

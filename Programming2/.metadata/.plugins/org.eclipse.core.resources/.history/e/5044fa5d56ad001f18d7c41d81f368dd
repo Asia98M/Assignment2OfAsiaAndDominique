@@ -1,0 +1,28 @@
+package Threading;
+
+public class Thread {
+
+	public static void main(String []args) {
+		
+		
+		for (int i = 0; i < 5; i++) {
+			MultiThreading myThreads = new MultiThreading();
+			
+			myThreads.start();
+		}
+		
+		
+		
+		
+	}
+
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static void sleep(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+}

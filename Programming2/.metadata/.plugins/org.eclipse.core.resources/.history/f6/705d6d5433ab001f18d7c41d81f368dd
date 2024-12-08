@@ -1,0 +1,9 @@
+package Threading;
+
+public class Thread {
+
+	public static void main(String []args) {
+		
+		ThreadingMultiple myThreads = new ThreadingMulitple
+	}
+}

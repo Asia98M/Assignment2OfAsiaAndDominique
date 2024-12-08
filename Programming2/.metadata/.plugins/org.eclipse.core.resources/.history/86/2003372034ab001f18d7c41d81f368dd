@@ -1,0 +1,13 @@
+package Threading;
+
+public class Thread {
+
+	public static void main(String []args) {
+		
+		MultiThreading myThreads = new MultiThreading();
+		MultiThreading myThreads2 = new MultiThreading();
+		
+		myThreads.run();
+		myThreads2.run();
+	}
+}
